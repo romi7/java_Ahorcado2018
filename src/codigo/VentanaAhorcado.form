@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JButton" name="letra25">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra25MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra27">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="F"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra27MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra22MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra28">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra28MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra23MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra26">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="E"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra26MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra24">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra24MousePressed"/>
+      </Events>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="pantalla" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="letra1" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra2" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra3" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra4" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra5" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra6" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra7" min="-2" pref="52" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="letra8" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra9" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra10" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra11" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra12" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra13" min="-2" pref="52" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="letra14" min="-2" pref="52" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="letra29" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra30" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra31" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra32" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra33" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra34" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="letra35" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="letra15" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra16" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra17" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra18" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra19" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra20" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="letra21" min="-2" pref="52" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="panelAhorcado" min="-2" pref="308" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="pantalla" min="-2" pref="55" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="panelAhorcado" min="-2" pref="280" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="letra1" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra2" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra3" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra4" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra5" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra6" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra7" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="letra8" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra9" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra10" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra11" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra12" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra13" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra14" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="letra15" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra16" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra17" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra18" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra19" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra20" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra21" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="letra29" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra30" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra31" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra32" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra33" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra34" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+                  <Component id="letra35" alignment="3" min="-2" pref="52" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="pantalla">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Sans Unicode" size="48" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="_ _ _ _ _ _ _"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="panelAhorcado">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra1MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra2MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra3MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra4MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="E"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra5MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="F"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra6MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra7MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="H"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra8MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="I"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra9MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="J"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra10MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra11MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="L"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra12MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra13MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra14MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xd1;"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra15MousePressed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letra15ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="O"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra16MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="P"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra17MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra18">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Q"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra18MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="R"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra19MousePressed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letra19ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra20MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="T"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra21MousePressed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letra21ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra29">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="U"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra29MousePressed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letra29ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra30">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="V"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra30MousePressed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letra30ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra31">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="W"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra31MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra32">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="X"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra32MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra33">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Y"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra33MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra34">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="F"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra34MousePressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="letra35">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G"/>
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="letra35MousePressed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
